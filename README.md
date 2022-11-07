@@ -14,3 +14,11 @@ The program execution steps are:
 
 After that, the generated file can be imported into the desired System for use.
 
+
+Program Start:
+
+![Result](Images/start.png)
+
+Resulting file:
+
+![Result](Images/output.png)
