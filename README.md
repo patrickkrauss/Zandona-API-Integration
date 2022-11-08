@@ -8,7 +8,7 @@ The project was developed using Pandas for data manipulation and Requests for co
 The program execution steps are:
 
 1. Select the desired year and month to import
-2. Connect the API and make the requests
+2. Connect to the API and send the requests
 3. Organize and filter the returned data
 4. Save the data in a new excel file
 
