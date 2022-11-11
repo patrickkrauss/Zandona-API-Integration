@@ -263,3 +263,6 @@ if __name__ == '__main__':
     detalhesDosAbastecimentosDoMes = getDetalhesAbastecimentoMes(listaDeIDsAbastecimentos)
 
     criaArquivoCSV(detalhesDosAbastecimentosDoMes)
+
+    input("Aperte qualquer tecla para fechar ")
+    
